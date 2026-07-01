@@ -4,7 +4,7 @@ Highly customizable macropad for creators.
 <img width="785" height="863" alt="Screenshot 2026-06-30 135928" src="https://github.com/user-attachments/assets/13c89d00-60f3-4139-8b49-a27e5756b355" />
 
 ## Why?
-This project was designed to help streamline my day-to-day workflow by providing quick access to the shortcuts and macros I use most often. With fully programmable keys, multiple layers, a rotary encoder, and an OLED display, the macropad can be customized for different applications such as Visual Studio, Fusion 360, KiCad, and Blender. The goal is to create a compact and highly customizable productivity tool that can help anybody streamline their workspace.
+This project was meant to assist me in being more efficient in my day-to-day activities through the use of the shortcut keys and macros which I frequently use. Through the use of programmable keys, several layers, the rotary encoder and an OLED screen, the macropad is able to be programmed for various uses including Visual Studio, Fusion 360, KiCad and Blender. The aim is to have a small but highly customizable productivity aid which can assist anyone in organizing their workspace.
 ## Features
 - 16 programmable mechanical keys
 
